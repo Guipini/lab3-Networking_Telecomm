@@ -82,8 +82,8 @@ The DNS server returned 8 IPv4 addresses for www.google.com (from the A record r
 - 142.251.152.119
 - 142.251.157.119
 - 142.251.151.119
-- 142.251.153.119
 - 142.251.156.119
+- 142.251.153.119
 
 Google uses multiple IP addresses for load balancing and redundancy across its global server infrastructure.
 
