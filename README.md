@@ -93,7 +93,7 @@ Google uses multiple IP addresses for load balancing and redundancy across its g
 
 ### FTP Capture Screenshot
 
-![FTP Capture](Capture_2.png)
+![FTP Capture](Capture_2.1.png)
 
 ---
 
